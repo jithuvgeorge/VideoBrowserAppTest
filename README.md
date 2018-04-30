@@ -1,1 +1,1 @@
-https://jithuvgeorge.github.io/test/
+https://jithuvgeorge.github.io/VideoBrowserApptest/
